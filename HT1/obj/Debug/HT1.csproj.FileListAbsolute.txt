@@ -7,3 +7,12 @@ c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.Proper
 c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.csproj.GenerateResource.Cache
 c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.exe
 c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.pdb
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\bin\Debug\HT1.exe.config
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\bin\Debug\HT1.exe
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\bin\Debug\HT1.pdb
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.csprojResolveAssemblyReference.cache
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.Form1.resources
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.Properties.Resources.resources
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.csproj.GenerateResource.Cache
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.exe
+C:\GIT_ROOT\IPC2 Junio2017 HT1\HT1\obj\Debug\HT1.pdb

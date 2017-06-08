@@ -30,5 +30,38 @@ namespace HT1
             h = Math.Sqrt(a + b);
             MessageBox.Show(h.ToString());
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            char[] c = i1.Text.ToCharArray();
+            int j;
+            bool a, ee, i, o, u;
+            a = ee = i = o = u = false;
+
+            for (j=0; j<c.Length;j++) {
+                if (c[j] == 'a' | c[j] == 'á' | c[j] == 'A' | c[j] == 'Á') {
+                    a = true;
+                } else if (c[j] == 'e' | c[j] == 'é' | c[j] == 'E' | c[j] == 'É') {
+                    ee = true;
+                } else if (c[j] == 'i' | c[j] == 'í' | c[j] == 'I' | c[j] == 'Í') {
+                    i = true;
+                } else if (c[j] == 'o' | c[j] == 'ó' | c[j] == 'O' | c[j] == 'Ó') {
+                    o = true;
+                } else if (c[j] == 'u' | c[j] == 'ú' | c[j] == 'U' | c[j] == 'Ú') {
+                    u = true;
+                }
+            }
+
+            if (a == true && ee == true && i == true && o == true && u == true)
+            {
+                MessageBox.Show("CUMPLE");
+            }
+            else {
+                MessageBox.Show("NO CUMPLE");
+            }
+        }
+
+
+        
     }
 }
