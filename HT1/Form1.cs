@@ -73,5 +73,12 @@ namespace HT1
             }
             MessageBox.Show(temp);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double resultado;
+            resultado = (int.Parse(i3.Text) * int.Parse(i2.Text)) / int.Parse(i1.Text);
+            MessageBox.Show(resultado.ToString());
+        }
     }
 }
