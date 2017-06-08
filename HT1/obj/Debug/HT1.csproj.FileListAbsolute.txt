@@ -1,0 +1,9 @@
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\bin\Debug\HT1.exe.config
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\bin\Debug\HT1.exe
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\bin\Debug\HT1.pdb
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.csprojResolveAssemblyReference.cache
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.Form1.resources
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.Properties.Resources.resources
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.csproj.GenerateResource.Cache
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.exe
+c:\users\jlrt\documents\visual studio 2017\Projects\HT1\HT1\obj\Debug\HT1.pdb
