@@ -61,7 +61,17 @@ namespace HT1
             }
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string cadena = i1.Text + " " + i2.Text;
+            char[] c = cadena.ToCharArray();
+            string temp="";
+            int j;
 
-        
+            for (j=c.Length-1;j>-1;j--) {
+                temp += c[j];
+            }
+            MessageBox.Show(temp);
+        }
     }
 }
